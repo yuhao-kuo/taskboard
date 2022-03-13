@@ -1,0 +1,10 @@
+obj/
+bin/
+release/
+*.tmp
+*.bak
+*_bak
+*_tmp
+*.exe
+*.dll
+
