@@ -7,4 +7,4 @@ release/
 *_tmp
 *.exe
 *.dll
-
+.vscode/
